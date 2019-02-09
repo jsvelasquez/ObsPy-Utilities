@@ -1,4 +1,4 @@
 ObsPy-Utilities
 ===============
 
-For functions, scripts, etc. to make like easier using ObsPy
+For functions, scripts, etc. to make life easier using ObsPy
